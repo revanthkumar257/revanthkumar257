@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Revanth Kumar Golagani</h1>
-<h3 align="center">🚀 Data Science | Artificial Intelligence | Software Development</h3>
+<h3 align="center">🚀 Data Science | Artificial Intelligence | Business Intelligence</h3>
 
 <!-- Quote / Tagline -->
 <p align="center">
