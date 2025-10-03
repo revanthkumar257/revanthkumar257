@@ -1,60 +1,56 @@
+<!-- Banner -->
 <p align="center">
-  <img src="C:\Users\revan\Downloads\ChatGPT Image Oct 4, 2025, 12_03_10 AM.png" alt="Data & AI Banner" />
+  <img src="assests/banner.png" alt="Data & AI Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Revanth Kumar  
+<h1 align="center">👋 Hi, I'm Revanth Kumar</h1>
+<h3 align="center">🚀 Computer Science Student | Data & AI Enthusiast | Deep Learning Explorer</h3>
 
-🚀 **Computer Science Student | Data & AI Enthusiast | Deep Learning Explorer**  
-
-I’m passionate about solving real-world problems using **Data Science, AI, and Machine Learning**.  
-My focus areas include **LLMs, Deep Learning, Computer Vision, Data Engineering, and BI**.  
-I love building **end-to-end AI applications** — from dataset preparation and modeling to deployment.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF5733&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Enthusiast;Deep+Learning+and+Computer+Vision;Exploring+LLMs+and+Generative+AI;Building+End-to-End+ML+Applications" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,opencv,git,github,linux,react,azure" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects  
 
-- 🌾 **[Agri-AI](https://github.com/revanthkumar257/Agri-AI)**  
-   Deep Learning-based Plant Disease Detection using ResNet-like CNN architecture (99.52% accuracy).  
+<p align="center">
+  <a href="https://github.com/revanthkumar257/Agri-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthkumar257&repo=Agri-AI&theme=radical&bg_color=0D1117&title_color=FF6F61&icon_color=F8D866&hide_border=true" />
+  </a>
+  <a href="https://github.com/revanthkumar257/Falcon-SQL-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthkumar257&repo=Falcon-SQL-Generator&theme=radical&bg_color=0D1117&title_color=33FFDA&icon_color=FF61C8&hide_border=true" />
+  </a>
+</p>
 
-- 🤖 **[Falcon-SQL-Generator](https://github.com/revanthkumar257/Falcon-SQL-Generator)**  
-   Converts natural language queries into SQL using Falcon-1B (LoRA + RAG with FAISS).  
-
-- 🎓 **[Smart Class Attendance System](https://github.com/revanthkumar257/smart-class-attendance-system)**  
-   Face Recognition Attendance System with Tkinter GUI + MySQL backend.  
-
-- 📊 **[Futurense US Pathway](https://github.com/revanthkumar257/Futurense-US-Pathway)**  
-   End-to-end data analysis & visualization with ML models + Power BI dashboards.  
+<p align="center">
+  <a href="https://github.com/revanthkumar257/smart-class-attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthkumar257&repo=smart-class-attendance-system&theme=radical&bg_color=0D1117&title_color=33A1FF&icon_color=F8D866&hide_border=true" />
+  </a>
+  <a href="https://github.com/revanthkumar257/Futurense-US-Pathway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthkumar257&repo=Futurense-US-Pathway&theme=radical&bg_color=0D1117&title_color=FF33A6&icon_color=61FFDA&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthkumar257&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthkumar257&show_icons=true&theme=radical&bg_color=0D1117&title_color=33FFDA&icon_color=FF61C8&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar257&theme=radical&background=0D1117&ring=FF6F61&fire=FF61C8&currStreakLabel=33FFDA&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkumar257&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumar257&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthkumar257&layout=compact&theme=radical&bg_color=0D1117&title_color=61FFDA&hide_border=true" height="180em" />
 </p>
 
 ---
@@ -62,17 +58,27 @@ I love building **end-to-end AI applications** — from dataset preparation and 
 ## 📈 Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthkumar257&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthkumar257&theme=radical&bg_color=0D1117&title_color=FF6F61&line=33FFDA&point=FF61C8&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/revanthkumar257/revanthkumar257/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/revanthkumar257/revanthkumar257/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Extra Visuals  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=revanthkumar257&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 🌍 Connect with Me  
 
-📫 Email: [revanthyadavg05@gmail.com](mailto:revanthyadavg05@gmail.com)  
-💼 LinkedIn: [Revanth Kumar Golagani](https://linkedin.com/in/revanth-kumar-golagani-1aa255282)  
-💻 GitHub: [revanthkumar257](https://github.com/revanthkumar257)  
+<p align="center">
+  <a href="mailto:revanthyadavg05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/revanth-kumar-golagani-1aa255282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/revanthkumar257"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
