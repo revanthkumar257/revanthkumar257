@@ -1,8 +1,15 @@
-<!-- HEADER -->
+<!-- COVER -->
+<p align="center">
+  <picture>
+    <source srcset="assets/cover-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="assets/cover-light.png" alt="Revanth Kumar Cover" style="max-width:100%;height:auto;">
+  </picture>
+</p>
+
+<!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Revanth Kumar Golagani</h1>
 <h3 align="center">🚀 Data Science | Artificial Intelligence | Business Intelligence</h3>
 
-<!-- Quote / Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Intelligence;AI+%7C+ML+%7C+Deep+Learning;Building+Smart+Software+Solutions;Always+Learning+%F0%9F%9A%80" />
 </p>
@@ -100,6 +107,12 @@
 - 📜 Microsoft Certified: Azure Data Scientist Associate  
 - 📜 Microsoft Certified: Azure Data Fundamentals  
 - 📜 Infosys Springboard: Principles of Generative AI  
+
+---
+
+## 🌗 Interactive Portfolio  
+
+👉 [**Click here for my interactive portfolio with light/dark theme toggle**](https://revanthkumar257.github.io)  
 
 ---
 
