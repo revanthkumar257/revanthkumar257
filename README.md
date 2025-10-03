@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\revan\Downloads\ChatGPT Image Oct 4, 2025, 12_03_10 AM.png"" alt="Data & AI Banner" />
+  <img src=""C:/Users/revan/Downloads/ChatGPT Image Oct 4, 2025, 12_03_10 AM.png"" alt="Data & AI Banner" />
 </p>
 
 # 👋 Hi, I'm Revanth Kumar  
